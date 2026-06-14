@@ -1,0 +1,8 @@
+pyyaml
+requests
+bs4
+pandas
+ics
+lxml
+flask
+gunicorn
